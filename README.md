@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Meshan Ranawana</h1>
-<h3 align="center">🚀 Software Engineering Student | Full-Stack Developer | AI Enthusiast</h3>
+<h1 align="center">Hello 👋, I'm Meshan Ranawana</h1>
+<h3 align="center">🚀 Computer Science Student | Full-Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+SLIIT;Full-Stack+Developer+(MERN+%7C+React+%7C+Node.js);AI+%26+NLP+Explorer;Building+real-world+solutions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+SCU;Full-Stack+Developer+(MERN+%7C+React+%7C+Node.js);AI+%26+NLP+Explorer;Building+real-world+solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm **Meshan Tharusha Ranawana**, a developer, student, and tech enthusiast currently pursuing **Software Engineering at SLIIT City University**. I like building practical software that is clean, responsive, useful, and grounded in real user workflows.
+I'm **Meshan Tharusha Ranawana**, a developer, student, and tech enthusiast currently pursuing **Computer Science Student at SLIIT City University**. I like building practical software that is clean, responsive, useful, and grounded in real user workflows.
 
 | What I focus on | 2026 Goals |
 |---|---|
